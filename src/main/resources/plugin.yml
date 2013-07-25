@@ -1,0 +1,5 @@
+name: EntityList
+main: net.daboross.bukkitdev.entitylist.EntityList
+version: 1.0
+author: Dabo Ross
+description: Lists entities in all worlds
