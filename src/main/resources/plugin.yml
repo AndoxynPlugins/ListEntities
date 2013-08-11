@@ -1,6 +1,6 @@
-name: EntityList
+name: ${project.name}
 main: net.daboross.bukkitdev.entitylist.EntityList
-version: 1.0
+version: ${project.version}
 author: Dabo Ross
 description: Lists entities in all worlds
 commands:
